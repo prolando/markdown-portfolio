@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Me *verás* **volar**
+
+Por la ciudad de la *furia*
+
+Donde **nadie** sabe de mí
+
+*Y yo soy parte de **todos***
